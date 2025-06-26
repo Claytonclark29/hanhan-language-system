@@ -1,0 +1,11 @@
+# Bracket Shape Definitions
+
+[]   : Default — emotionally paired or system-readable hanhan
+{}   : Named object — identity-bound, ritually carried
+()   : Action — speech, motion, call-and-response
+<>   : Transition — between states, veiled or speculative
+⟦⟧  : Recursive — memory loop, symbolic echo, nested meaning
+【】 : Sacred — locked state, artifact, divine object
+༺༻ : Ritual — intention-bound, sealed transmission
+
+Note: Bracket shapes alter tone, structure, and interpretive behavior.

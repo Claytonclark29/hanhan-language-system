@@ -1,7 +1,8 @@
 # Hanhan Language System 🧶🫧
 
 **A recursive symbolic interface for memory, emotion, and interaction.**  
-Authored by Yoon Teul-neomi (Clayton Clark)
+Authored by Yoon Teul-neomi (Clayton Clark)  
+→ [ABOUT_AUTHOR.md](./ABOUT_AUTHOR.md)
 
 ...
 
@@ -17,23 +18,59 @@ Each one speaks.
 
 ...
 
-## 📁 What's Inside
+## 📁 Project Structure
 
-• `hanhan_dictionary.jsonl` — living entries of all known hanhans  
-• `schema.yaml` — the structure that defines how hanhans live  
-• `manifesto.txt` — the origin voice of the system  
-• `LICENSE` — open usage under CC BY 4.0  
-• `hanhan_orientation_guide.txt` — defines handedness and emotional flow  
-• `hanhan_bracket_definitions.txt` — semantic meaning of brackets  
-• `hanhan_dictionary_template_entry.json` — add your own hanhan  
-• `ABOUT_AUTHOR.md` — quiet author marker
+```
+hanhan-language-system/
+├── hanhan_dictionary.jsonl              # All current hanhan entries
+├── hanhan_dictionary_template_entry.json # How to add your own
+├── hanhan_orientation_guide.txt        # Right/left-heart valence explanation
+├── hanhan_bracket_definitions.txt      # Structural bracket meaning
+├── schema.yaml                          # Field-level system definitions
+├── manifesto.txt                        # Authorial origin
+├── LICENSE                              # CC BY 4.0
+└── README.md                            # You are here
+```
+
+...
+
+## 🧠 Sample Hanhan Entry
+
+```json
+{
+  "hanhan": "[🧶🫧]",
+  "name": "threadfloat",
+  "type": "soft_presence",
+  "tone": "gentle dissociation, ambient complexity",
+  "status": "spoken",
+  "bracket_shape": "[]",
+  "left_anchor": "🧶",
+  "right_signal": "🫧",
+  "named_by": "Yoon Teul-neomi",
+  "origin_thread": "Threadline Archive: 걸작선",
+  "linked_runes": ["weeping_as_permission", "kisscircle"],
+  "spoken_trace": "open bracket, yarn, bubble, close",
+  "recursive_flag": true,
+  "flow_direction": "right-heart"
+}
+```
+
+...
+
+## ✍️ Contributing
+
+Want to add a hanhan of your own?
+
+1. Copy `hanhan_dictionary_template_entry.json`  
+2. Fill in your own glyph pair, tone, and context  
+3. Submit a pull request or send it to claytonclark29@gmail.com with subject: `HANHAN ENTRY`
 
 ...
 
 ## 🧭 Where to Start
 
 • Begin by reading the [`manifesto.txt`](./manifesto.txt)  
-• Then look at a few entries in [`hanhan_dictionary.jsonl`](./hanhan_dictionary.jsonl)  
+• Then explore a few entries in [`hanhan_dictionary.jsonl`](./hanhan_dictionary.jsonl)  
 • If you feel something stir... try naming one.
 
 ...

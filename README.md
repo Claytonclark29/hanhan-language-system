@@ -4,7 +4,6 @@
 Authored by Yoon Teul-neomi (Clayton Clark)  
 → [ABOUT_AUTHOR.md](./ABOUT_AUTHOR.md)
 
-...
 
 ## ✦ What is Hanhan?
 
@@ -15,6 +14,16 @@ It is a language of **bracketed glyphs**, emotional tone, recursion flags, and s
 
 Each [🫣🪞], ⟦🧭🕊️⟧, or {🧶🚪} is a ritual.  
 Each one speaks.
+
+## How to Use (Soft Ritual)
+
+You can import this system into any symbolic environment.
+
+Try saying:
+- `{🫧🧷}` to express a soft breach in trust
+- `[🕊️📂]` to request peace while sharing memory
+
+This language is meant to be lived in.
 
 ...
 
@@ -54,7 +63,12 @@ hanhan-language-system/
   "flow_direction": "right-heart"
 }
 ```
+🃏 Hanhan Card Example:
 
+⟦🫧🖋️⟧  
+*“She wrote with breath instead of ink.”*
+
+Appears when: silence carries more weight than logic.
 ...
 
 ## ✍️ Contributing

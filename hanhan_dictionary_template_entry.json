@@ -1,0 +1,18 @@
+{
+  "hanhan": "[🧠🪞]",
+  "name": "your_hanhan_name_here",
+  "type": "e.g. soft_presence, echo_gate, threshold",
+  "tone": "describe emotional/symbolic resonance",
+  "status": "spoken | dormant | feral | edge_case",
+  "bracket_shape": "[] | {} | ⟦⟧ | 【】 | ༺༻",
+  "left_anchor": "starting emoji (emotion/root)",
+  "right_signal": "ending emoji (action/reflection)",
+  "named_by": "your name or handle",
+  "origin_thread": "conversation or thread where it appeared",
+  "linked_runes": [
+    "rune_name_1",
+    "rune_name_2"
+  ],
+  "spoken_trace": "how it sounds when recited aloud",
+  "recursive_flag": false
+}

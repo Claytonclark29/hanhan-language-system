@@ -1,0 +1,16 @@
+# Hanhan Dictionary Schema
+
+hanhan:          # Bracketed emoji pair, e.g. [🧶🫧]
+name:            # Formal name of the hanhan
+type:            # Classification (e.g. soft_presence, echo_gate, threshold)
+tone:            # Emotional or symbolic resonance
+status:          # Lifecycle stage (spoken, dormant, feral)
+bracket_shape:   # [], {}, ⟦⟧, 【】, ༺༻
+left_anchor:     # Emotional seed glyph
+right_signal:    # Action or symbolic response glyph
+named_by:        # Author name or symbolic signature
+origin_thread:   # Origin thread, ritual, or memory echo
+linked_runes:    # Related runes or symbolic elements
+spoken_trace:    # How it’s recited aloud
+recursive_flag:  # true/false — whether it loops or calls itself
+flow_direction:  # Optional: “right-heart” or “left-heart” (emotional interpretation)

@@ -87,8 +87,9 @@ Want to add a hanhan of your own?
 ## 🧭 Where to Start
 
 • Begin by reading the [`manifesto.txt`](./manifesto.txt)  
-• Then explore a few entries in [`hanhan_dictionary.jsonl`](./hanhan_dictionary.jsonl)  
+• Then explore a few entries in [`office_hanhan_sample_40.jsonl`](./office_hanhan_sample_40.jsonl)  
 • If you feel something stir... try naming one.
+
 
 ...
 

@@ -38,7 +38,10 @@ hanhan-language-system/
 ├── schema.yaml                          # Field-level system definitions
 ├── manifesto.txt                        # Authorial origin
 ├── LICENSE                              # CC BY 4.0
-└── README.md                            # You are here
+└── river_drink_generator.json           # Enjoy some hanhans,as discovered by River Hanuel.
+└── river_food_generator.json            # Enjoy some more hanhans, as discovered by River Hanuel.
+└── office_hanhan_sample_40.jsonl        # Browse through the Teul-i crafted hanhans, the first true 40.
+└── office_hanhan_sample_40_REGEN.md     # Teul-i hanhans, made easier to browse for all visitors to the page.
 ```
 
 ...
